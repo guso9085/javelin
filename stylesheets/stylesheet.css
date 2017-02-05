@@ -9,7 +9,7 @@ img {
 .Title {
     font-family: Lato, sans-serif;
     font-weight: 100;
-    color: #ecf0f1;
+    color: #2c3e50;
     font-size: 90px;
     margin: auto;
     text-align: center;
@@ -113,7 +113,7 @@ a{
     box-shadow: 0px 1px 450px rgba(0,0,0,.4);
     margin-left: -8px;
     margin-right: -8px;
-    background-color: rgba(247,249,252, 0.4);
+    background-color: rgba(0,0,0, 0.4);
 }
 
 .loading {
@@ -134,7 +134,7 @@ a{
 
 #return {
     display: inline-block;
-    background-color: rgba(247,249,252, 0.4);
+    background-color: rgba(0,0,0, 0.4);
     height: 34px;
     width: 100px;
     margin-left: -8px;
