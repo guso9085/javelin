@@ -22,6 +22,11 @@ img {
     font-size: 45px;
 }
 
+#projects {
+  text-align: center;
+  width: 100%;
+}
+
 #player1 {
     font-size: 30px;
     font-family: Raleway;
@@ -55,16 +60,6 @@ img {
     /* margin: auto; */
     /* text-align: right; */
     vertical-align: center;
-}
-
-.projectz {
-    width: 100%;
-    margin-top: 180px;
-    /* margin-bottom: 10px !important; */
-    display: block !important;
-    position: relative !important;
-    background-color: #2c3e50;
-    box-shadow: 0px 0px 41px rgba(0,0,0,1);
 }
 
 * {
