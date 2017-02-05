@@ -53,10 +53,9 @@ img {
 #player1 {
     font-size: 30px;
     color: #ecf0f1;
-    width: 30%;
+    width: 23%;
     display: inline-block;
     background-color: rgba(52,61,70, .4);
-    height: 200px;
     text-align: left;
     vertical-align: center;
 }
@@ -72,10 +71,9 @@ img {
 #player2 {
     font-size: 30px;
     color: #ecf0f1;
-    width: 30%;
+    width: 23%;
     display: inline-block;
     background-color: rgba(52,61,70, .4);
-    height: 200px;
     text-align: right;
     vertical-align: center;
 }
