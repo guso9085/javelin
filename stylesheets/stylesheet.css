@@ -1,9 +1,3 @@
-html {
-    background-image: url('background.png');
-    background-attachment: fixed;
-
-}
-
 
 img {
     text-align: center;
@@ -96,7 +90,7 @@ img {
 }
 
 html {
-		background-image: url("../congruent_outline.png");
+		background-image: url("../background.png");
 		background-attachment:fixed;
     height: 100%;
 }
