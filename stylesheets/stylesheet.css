@@ -5,6 +5,12 @@ img {
     display: block;
     margin: 0px auto;
 }
+.Title {
+    font-family: Lato, sans-serif;
+    font-weight: 100;
+    color: #c0392b;
+    font-size: 90px;
+}
 
 * {
   z-index: 5;
