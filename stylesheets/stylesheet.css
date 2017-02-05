@@ -26,19 +26,35 @@ img {
     font-size: 30px;
     font-family: Raleway;
     color: #ecf0f1;
-    width: 50%;
+    width: 30%;
     display: inline-block;
-    background-color: Red;
+    background-color: Blue;
+    height: 200px;
+    left: 30%;
+    position: relative;
+    /* margin: auto; */
+    /* text-align: right; */
+    vertical-align: center;
 
+}
+
+#controls {
+    width: 100%;
 }
 
 #player2 {
     font-size: 30px;
     font-family: Raleway;
     color: #ecf0f1;
-    width: 50%;
+    width: 30%;
     display: inline-block;
     background-color: Blue;
+    height: 200px;
+    left: 30%;
+    position: relative;
+    /* margin: auto; */
+    /* text-align: right; */
+    vertical-align: center;
 }
 
 .projectz {
