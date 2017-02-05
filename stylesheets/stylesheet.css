@@ -7,9 +7,10 @@ img {
 }
 
 .Title {
-    font-family: Lato, sans-serif;
+    font-family: Lato;
     font-weight: 100;
-    color: #2c3e50;
+    color: #FFFFFF;
+    background-color: rgba(0,0,0, .7);
     font-size: 90px;
     margin: auto;
     text-align: center;
@@ -41,7 +42,7 @@ img {
     width: 500px;
     height: 500px;
     margin: auto;
-    background-color: black;
+    background-color: rgba(0,0,0, 0.4);
     text-align: center;
 }
 
