@@ -15,14 +15,37 @@ img {
     text-align: center;
 }
 
+.CTitle {
+    font-family: Lato, sans-serif;
+    font-weight: 100;
+    color: #ecf0f1;
+    font-size: 60px;
+    margin: auto;
+    text-align: center;
+}
+
 #T {
     font-size: 45px;
+    font-family: Lato, sans-serif;
+    font-weight: 100;
+    color: #ecf0f1;
 }
 #itle {
     font-size: 45px;
+    font-family: Lato, sans-serif;
+    font-weight: 100;
+    color: #ecf0f1;
 }
 
-#projects {
+#webplayer {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: black;
+    text-align: center;
+}
+
+#controlbanner {
   text-align: center;
   width: 100%;
 }
