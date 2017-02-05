@@ -51,12 +51,14 @@ img {
 }
 
 #player1 {
+    padding-top: 10px;
     font-size: 30px;
     color: #ecf0f1;
     width: 23%;
     display: inline-block;
     background-color: rgba(52,61,70, .4);
     text-align: left;
+    line-height: 100%;
     vertical-align: center;
 }
 
@@ -69,8 +71,10 @@ img {
 }
 
 #player2 {
+    padding-top: 10px;
     font-size: 30px;
     color: #ecf0f1;
+    line-height: 100%;
     width: 23%;
     display: inline-block;
     background-color: rgba(52,61,70, .4);
