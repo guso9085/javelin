@@ -54,11 +54,11 @@ img {
 #player1 {
     padding-top: 10px;
     font-size: 30px;
-    color: #ecf0f1;
+    color: #34495e;
     width: 23%;
     padding-left: 17px;
     display: inline-block;
-    background-color: rgba(52,61,70, .4);
+    /*background-color: rgba(52,61,70, .4);*/
     text-align: left;
     line-height: 100%;
     vertical-align: center;
@@ -75,12 +75,12 @@ img {
 #player2 {
     padding-top: 10px;
     font-size: 30px;
-    color: #ecf0f1;
+    color: #34495e;
     line-height: 100%;
     width: 23%;
     padding-left: 17px;
     display: inline-block;
-    background-color: rgba(52,61,70, .4);
+    /*background-color: rgba(52,61,70, .4);*/
     text-align: left;
     vertical-align: center;
 }
@@ -97,10 +97,12 @@ img {
 }
 
 html {
-		background-image: url("../background.png");
+		/*background-image: url("../background.png");
 		background-attachment:fixed;
-    background-size: cover;
+    background-size: cover;*/
+    background-color: #ecf0f1;
 }
+
 
 header {
     margin: auto;
