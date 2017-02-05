@@ -56,19 +56,16 @@ img {
     color: #ecf0f1;
     width: 30%;
     display: inline-block;
-    background-color: Blue;
+    background-color: rgba(52,61,70, .4);
     height: 200px;
-    left: 30%;
-    position: relative;
-    /* margin: auto; */
-    /* text-align: right; */
+    text-align: left;
     vertical-align: center;
-
 }
 
 #controls {
     width: 100%;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 #player2 {
@@ -77,12 +74,9 @@ img {
     color: #ecf0f1;
     width: 30%;
     display: inline-block;
-    background-color: Blue;
+    background-color: rgba(52,61,70, .4);
     height: 200px;
-    left: 30%;
-    position: relative;
-    /* margin: auto; */
-    /* text-align: right; */
+    text-align: right;
     vertical-align: center;
 }
 
