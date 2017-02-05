@@ -56,6 +56,7 @@ img {
     font-size: 30px;
     color: #ecf0f1;
     width: 23%;
+    padding-left: 17px;
     display: inline-block;
     background-color: rgba(52,61,70, .4);
     text-align: left;
@@ -77,9 +78,10 @@ img {
     color: #ecf0f1;
     line-height: 100%;
     width: 23%;
+    padding-left: 17px;
     display: inline-block;
     background-color: rgba(52,61,70, .4);
-    text-align: right;
+    text-align: left;
     vertical-align: center;
 }
 
