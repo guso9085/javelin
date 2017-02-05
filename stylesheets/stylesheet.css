@@ -92,7 +92,7 @@ img {
 html {
 		background-image: url("../background.png");
 		background-attachment:fixed;
-    height: 100%;
+    background-size: cover;
 }
 
 header {
