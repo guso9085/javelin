@@ -52,7 +52,6 @@ img {
 
 #player1 {
     font-size: 30px;
-    font-family: Raleway;
     color: #ecf0f1;
     width: 30%;
     display: inline-block;
@@ -67,12 +66,11 @@ img {
     text-align: center;
     margin-bottom: 20px;
     font-size: 10px;
-    font-family: Raleway;
+    font-family: Orbitron;
 }
 
 #player2 {
     font-size: 30px;
-    font-family: Raleway;
     color: #ecf0f1;
     width: 30%;
     display: inline-block;
