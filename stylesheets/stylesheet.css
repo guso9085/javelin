@@ -5,11 +5,13 @@ img {
     display: block;
     margin: 0px auto;
 }
+
 .Title {
     font-family: Lato, sans-serif;
     font-weight: 100;
     color: #ecf0f1;
     font-size: 90px;
+    margin: auto;
 }
 
 * {
